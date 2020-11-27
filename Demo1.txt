@@ -1,9 +1,0 @@
-It is demo 1
-<<<<<<< HEAD
-Smt changed
-Changed in master
-=======
-Modified in experiment
-Smt changed
-Experiment is going on
->>>>>>> experiment1
